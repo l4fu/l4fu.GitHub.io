@@ -3,87 +3,21 @@
     [
         {
             "text": "Home",
-            "target": "notes/list-web-harware.md",
+            "target": "notes/.vx.json",
+            "navi": true,
+            "navi_expand_level": 1,
+            "navi_index": "notes/list-web-harware.md",
             "toc": false
         },
         {
             "text": "操作系统",
             "target": "notes/操作系统漏洞/.vx.json",
             "navi": true,
-            "navi_expand_level": 1
-        },
-        {
-            "text": "开发框架",
-            "target": "notes/开发框架漏洞/.vx.json",
-            "navi": true,
-            "navi_expand_level": 1
-        },
-        {
-            "text": "开发语言",
-            "target": "notes/开发框架漏洞/.vx.json",
-            "navi": true,
-            "navi_expand_level": 1
-        },
-        {
-            "text": "其他",
-            "target": "notes/其他漏洞/.vx.json",
-            "navi": true,
-            "navi_expand_level": 1
-        },
-        {
-            "text": "网络和设备",
-            "target": "notes/网络和设备漏洞/.vx.json",
-            "navi": true,
-            "navi_expand_level": 1
-        },
-        {
-            "text": "应用服务器",
-            "target": "notes/应用服务器漏洞/.vx.json",
-            "navi": true,
-            "navi_expand_level": 1
-        },
-        {
-            "text": "云安全",
-            "target": "notes/云安全漏洞/.vx.json",
-            "navi": true,
-            "navi_expand_level": 1
-        },
-        {
-            "text": "CMS",
-            "target": "notes/CMS漏洞/.vx.json",
-            "navi": true,
-            "navi_expand_level": 1
-        },
-        {
-            "text": "OA产品",
-            "target": "notes/OA产品漏洞/.vx.json",
-            "navi": true,
-            "navi_expand_level": 1
-        },
-        {
-            "text": "vulhub",
-            "target": "notes/vulhub/.vx.json",
-            "navi": true,
-            "navi_expand_level": 1
-        },
-        {
-            "text": "Web服务器",
-            "target": "notes/Web服务器漏洞/.vx.json",
-            "navi": true,
-            "navi_expand_level": 1
-        },
-        {
-            "text": "Web应用",
-            "target": "notes/Web应用/.vx.json",
-            "navi": true,
-            "navi_expand_level": 1
-        },
-        {
-            "text": "Web应用漏洞",
-            "target": "notes/Web应用漏洞/.vx.json",
-            "navi": true,
-            "navi_expand_level": 1
+            "navi_expand_level": 1,
+            "navi_index": "notes/操作系统漏洞/Linux DirtyPipe权限提升漏洞 CVE-2022-0847.md"
+
         }
+        
     ],
     "actions":
     [
