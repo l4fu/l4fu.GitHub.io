@@ -1,0 +1,64 @@
+{
+    "created_time": "2024-05-06T01:10:22Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:22Z",
+            "id": "6861",
+            "modified_time": "2024-05-06T01:10:22Z",
+            "name": "致远OA A6 createMysql.jsp 数据库敏感信息泄露.py",
+            "signature": "17736807490591927806",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:22Z",
+            "id": "6862",
+            "modified_time": "2024-05-06T01:10:22Z",
+            "name": "致远OA A6 test.jsp SQL注入漏洞.py",
+            "signature": "9018234053936557566",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:22Z",
+            "id": "6863",
+            "modified_time": "2024-05-06T01:10:22Z",
+            "name": "致远OA ajax.do登录绕过 任意文件上传 CNVD-2021-01627.py",
+            "signature": "14817135361820995070",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:22Z",
+            "id": "6864",
+            "modified_time": "2024-05-06T01:10:22Z",
+            "name": "致远OA getSessionList.jsp Session泄漏漏洞.py",
+            "signature": "2543565422082928126",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:22Z",
+            "id": "6867",
+            "modified_time": "2024-05-06T01:10:22Z",
+            "name": "致远OA webmail.do任意文件下载 CNVD-2020-62422.py",
+            "signature": "18417917552013880830",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "致远OA Session泄露 任意文件上传"
+        }
+    ],
+    "id": "6860",
+    "modified_time": "2024-05-06T01:10:22Z",
+    "signature": "4915093268824862206",
+    "version": 3
+}

@@ -1,0 +1,115 @@
+{
+    "created_time": "2024-05-06T01:09:54Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:09:55Z",
+            "id": "5129",
+            "modified_time": "2024-05-06T01:09:55Z",
+            "name": "Imcatcms 4.2 后台文件包含getshell .md",
+            "signature": "11271035754642943459",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:09:55Z",
+            "id": "5136",
+            "modified_time": "2024-05-06T01:09:55Z",
+            "name": "（CVE-2018-20605）Imcat 4.4 任意代码执行漏洞 .md",
+            "signature": "12543056938591071715",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:09:55Z",
+            "id": "5154",
+            "modified_time": "2024-05-06T01:09:55Z",
+            "name": "（CVE-2018-20606）Imcat 4.4 敏感信息泄露 .md",
+            "signature": "8173238395665395171",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:09:55Z",
+            "id": "5169",
+            "modified_time": "2024-05-06T01:09:55Z",
+            "name": "（CVE-2018-20607）Imcat 4.4 敏感信息泄露 .md",
+            "signature": "7554722092398685667",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:09:56Z",
+            "id": "5185",
+            "modified_time": "2024-05-06T01:09:56Z",
+            "name": "（CVE-2018-20608）Imcat 4.4 敏感信息泄露 .md",
+            "signature": "12282780202466553316",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:09:56Z",
+            "id": "5200",
+            "modified_time": "2024-05-06T01:09:56Z",
+            "name": "（CVE-2018-20609）Imcat 4.4 敏感信息泄露 .md",
+            "signature": "2870769289256250852",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:09:56Z",
+            "id": "5211",
+            "modified_time": "2024-05-06T01:09:56Z",
+            "name": "（CVE-2018-20610）Imcat 4.4 敏感信息泄露 .md",
+            "signature": "699672276135063012",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:09:56Z",
+            "id": "5223",
+            "modified_time": "2024-05-06T01:09:56Z",
+            "name": "（CVE-2018-20611）Imcat 4.4 xss .md",
+            "signature": "4185298709425696228",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "Imcatcms 4.2 后台文件包含getshell"
+        },
+        {
+            "name": "（CVE-2018-20605）Imcat 4.4 任意代码执行漏洞"
+        },
+        {
+            "name": "（CVE-2018-20606）Imcat 4.4 敏感信息泄露"
+        },
+        {
+            "name": "（CVE-2018-20607）Imcat 4.4 敏感信息泄露"
+        },
+        {
+            "name": "（CVE-2018-20608）Imcat 4.4 敏感信息泄露"
+        },
+        {
+            "name": "（CVE-2018-20609）Imcat 4.4 敏感信息泄露"
+        },
+        {
+            "name": "（CVE-2018-20610）Imcat 4.4 敏感信息泄露"
+        },
+        {
+            "name": "（CVE-2018-20611）Imcat 4.4 xss"
+        }
+    ],
+    "id": "5117",
+    "modified_time": "2024-05-06T01:09:54Z",
+    "signature": "12353231388541464034",
+    "version": 3
+}

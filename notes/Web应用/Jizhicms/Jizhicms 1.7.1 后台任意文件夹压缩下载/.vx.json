@@ -1,0 +1,24 @@
+{
+    "created_time": "2024-05-06T01:10:03Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:03Z",
+            "id": "5623",
+            "modified_time": "2024-05-06T01:10:03Z",
+            "name": "Jizhicms 1.7.1 后台任意文件夹压缩下载.md",
+            "signature": "13432126288533401067",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "resource"
+        }
+    ],
+    "id": "5620",
+    "modified_time": "2024-05-06T01:10:03Z",
+    "signature": "10062688483060231659",
+    "version": 3
+}

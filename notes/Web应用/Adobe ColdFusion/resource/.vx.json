@@ -1,0 +1,17 @@
+{
+    "created_time": "2024-05-06T01:09:09Z",
+    "files": [
+    ],
+    "folders": [
+        {
+            "name": "(CVE-2010-2861)AdobeColdFusion文件读取漏洞"
+        },
+        {
+            "name": "(CVE-2017-3066)AdobeColdFusion反序列化漏洞"
+        }
+    ],
+    "id": "2293",
+    "modified_time": "2024-05-06T01:09:09Z",
+    "signature": "9333583948811873717",
+    "version": 3
+}

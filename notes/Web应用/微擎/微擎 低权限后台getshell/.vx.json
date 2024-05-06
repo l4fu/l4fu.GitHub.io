@@ -1,0 +1,24 @@
+{
+    "created_time": "2024-05-06T01:11:45Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:46Z",
+            "id": "12385",
+            "modified_time": "2024-05-06T01:11:46Z",
+            "name": "微擎 低权限后台getshell.md",
+            "signature": "3785871114584469074",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "resource"
+        }
+    ],
+    "id": "12384",
+    "modified_time": "2024-05-06T01:11:45Z",
+    "signature": "11274287444317974097",
+    "version": 3
+}

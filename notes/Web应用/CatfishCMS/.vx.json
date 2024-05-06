@@ -1,0 +1,35 @@
+{
+    "created_time": "2024-05-06T01:09:20Z",
+    "files": [
+    ],
+    "folders": [
+        {
+            "name": "CatfishCMS 4.5.7 csrf getshell"
+        },
+        {
+            "name": "CatfishCMS 4.5.7 xss"
+        },
+        {
+            "name": "CatfishCMS 4.6.15 csrf getshell"
+        },
+        {
+            "name": "CatfishCMS 4.6.15 前台xss"
+        },
+        {
+            "name": "CatfishCMS 4.6.15 后台文件包含getshell"
+        },
+        {
+            "name": "CatfishCMS后台csrf"
+        },
+        {
+            "name": "CatfishCMS后台储存型xss"
+        },
+        {
+            "name": "（CNVD-2019-06255）CatfishCMS远程命令执行"
+        }
+    ],
+    "id": "2954",
+    "modified_time": "2024-05-06T01:09:20Z",
+    "signature": "6265336179579170240",
+    "version": 3
+}

@@ -1,0 +1,38 @@
+{
+    "created_time": "2024-05-06T01:09:21Z",
+    "files": [
+    ],
+    "folders": [
+        {
+            "name": "CVE-2019-19781 Citrix Application Delivery Controller和Citrix Gateway的RCE"
+        },
+        {
+            "name": "（CVE-2019-19781）Citrix 远程命令执行漏洞"
+        },
+        {
+            "name": "（CVE-2020-7473）Citrix 认证绕过getshell"
+        },
+        {
+            "name": "（CVE-2020-8194）Citrix 未授权访问导致的任意代码执行漏洞"
+        },
+        {
+            "name": "（CVE-2020-8195）Citrix 未授权访问漏洞"
+        },
+        {
+            "name": "（CVE-2020-8196）Citrix Nitro API 未授权访问漏洞"
+        },
+        {
+            "name": "（CVE-2020-8198）Citrix 储存型xss"
+        },
+        {
+            "name": "（CVE-2020-8209）Citrix XenMobile目录遍历任意文件读取漏洞"
+        },
+        {
+            "name": "（CVE-2020-ianianian）Citrix 目录遍历漏洞"
+        }
+    ],
+    "id": "3044",
+    "modified_time": "2024-05-06T01:09:21Z",
+    "signature": "1829528260174163393",
+    "version": 3
+}

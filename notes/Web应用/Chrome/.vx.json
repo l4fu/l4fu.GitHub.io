@@ -1,0 +1,17 @@
+{
+    "created_time": "2024-05-06T01:09:20Z",
+    "files": [
+    ],
+    "folders": [
+        {
+            "name": "chrome利用详情"
+        },
+        {
+            "name": "Windows Chrome 远程命令执行漏洞"
+        }
+    ],
+    "id": "3024",
+    "modified_time": "2024-05-06T01:09:20Z",
+    "signature": "12492762781360598464",
+    "version": 3
+}

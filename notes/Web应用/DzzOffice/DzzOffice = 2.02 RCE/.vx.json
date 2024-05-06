@@ -1,0 +1,24 @@
+{
+    "created_time": "2024-05-06T01:09:33Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:09:33Z",
+            "id": "3748",
+            "modified_time": "2024-05-06T01:09:33Z",
+            "name": "DzzOffice = 2.02 RCE.md",
+            "signature": "16717489860079267277",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "resource"
+        }
+    ],
+    "id": "3745",
+    "modified_time": "2024-05-06T01:09:33Z",
+    "signature": "10149462945746660813",
+    "version": 3
+}

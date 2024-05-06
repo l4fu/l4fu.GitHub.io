@@ -1,0 +1,37 @@
+{
+    "created_time": "2024-05-06T01:09:51Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:09:51Z",
+            "id": "4924",
+            "modified_time": "2024-05-06T01:09:51Z",
+            "name": "（CVE-2020-6948）HashBrown CMS 远程命令执行漏洞.md",
+            "signature": "10974089966429679071",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:09:52Z",
+            "id": "4931",
+            "modified_time": "2024-05-06T01:09:52Z",
+            "name": "（CVE-2020-6949）HashBrown CMS postUser 函数存在提权漏洞.md",
+            "signature": "14507675585095413216",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "（CVE-2020-6948）HashBrown CMS 远程命令执行漏洞"
+        },
+        {
+            "name": "（CVE-2020-6949）HashBrown CMS postUser 函数存在提权漏洞"
+        }
+    ],
+    "id": "4914",
+    "modified_time": "2024-05-06T01:09:51Z",
+    "signature": "611765664364375519",
+    "version": 3
+}

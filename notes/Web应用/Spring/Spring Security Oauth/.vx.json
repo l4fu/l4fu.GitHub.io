@@ -1,0 +1,53 @@
+{
+    "created_time": "2024-05-06T01:10:48Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:48Z",
+            "id": "8775",
+            "modified_time": "2024-05-06T01:10:48Z",
+            "name": "（CVE-2016-4977）Spring Security OAuth2 远程命令执行漏洞.md",
+            "signature": "3985923424147484184",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:48Z",
+            "id": "8787",
+            "modified_time": "2024-05-06T01:10:48Z",
+            "name": "（CVE-2018-1260）Spring Security Oauth2 远程代码执行.md",
+            "signature": "15584712331911245336",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:48Z",
+            "id": "8792",
+            "modified_time": "2024-05-06T01:10:48Z",
+            "name": "（CVE-2019-3778）Spring Security OAuth2 开放重定向.md",
+            "signature": "7554450577451134488",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "resource"
+        },
+        {
+            "name": "（CVE-2016-4977）Spring Security OAuth2 远程命令执行漏洞"
+        },
+        {
+            "name": "（CVE-2018-1260）Spring Security Oauth2 远程代码执行"
+        },
+        {
+            "name": "（CVE-2019-3778）Spring Security OAuth2 开放重定向"
+        }
+    ],
+    "id": "8791",
+    "modified_time": "2024-05-06T01:10:48Z",
+    "signature": "16427467859794865688",
+    "version": 3
+}

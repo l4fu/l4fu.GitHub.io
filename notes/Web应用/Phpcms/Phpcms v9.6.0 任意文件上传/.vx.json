@@ -1,0 +1,24 @@
+{
+    "created_time": "2024-05-06T01:10:28Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:28Z",
+            "id": "7404",
+            "modified_time": "2024-05-06T01:10:28Z",
+            "name": "Phpcms v9.6.0 任意文件上传.md",
+            "signature": "8017217936202149380",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "resource"
+        }
+    ],
+    "id": "7401",
+    "modified_time": "2024-05-06T01:10:28Z",
+    "signature": "15468872120430767620",
+    "version": 3
+}

@@ -1,0 +1,24 @@
+{
+    "created_time": "2024-05-06T01:09:28Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:09:28Z",
+            "id": "3485",
+            "modified_time": "2024-05-06T01:09:28Z",
+            "name": "Discuz! X3.4 Weixin Plugin ssrf.md",
+            "signature": "7475676848563170760",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "resource"
+        }
+    ],
+    "id": "3482",
+    "modified_time": "2024-05-06T01:09:28Z",
+    "signature": "15117738327571705288",
+    "version": 3
+}

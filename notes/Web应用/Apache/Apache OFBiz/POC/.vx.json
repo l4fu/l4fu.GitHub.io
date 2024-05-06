@@ -1,0 +1,14 @@
+{
+    "created_time": "2024-05-06T01:09:12Z",
+    "files": [
+    ],
+    "folders": [
+        {
+            "name": "Apache OFBiz RMI反序列化漏洞 CVE-2021-26295"
+        }
+    ],
+    "id": "2458",
+    "modified_time": "2024-05-06T01:09:12Z",
+    "signature": "13466298719082655160",
+    "version": 3
+}

@@ -1,0 +1,24 @@
+{
+    "created_time": "2024-05-06T01:09:29Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:09:29Z",
+            "id": "3495",
+            "modified_time": "2024-05-06T01:09:29Z",
+            "name": "Discuz! X3.4 任意文件删除漏洞.md",
+            "signature": "4503765882974514633",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "resource"
+        }
+    ],
+    "id": "3494",
+    "modified_time": "2024-05-06T01:09:29Z",
+    "signature": "7975062114932370889",
+    "version": 3
+}

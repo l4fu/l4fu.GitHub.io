@@ -1,0 +1,24 @@
+{
+    "created_time": "2024-05-06T01:11:47Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:47Z",
+            "id": "12498",
+            "modified_time": "2024-05-06T01:11:47Z",
+            "name": "数字化校园平台 校园综合管理系统 任意文件上传漏洞.md",
+            "signature": "6072305969746423379",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "resource"
+        }
+    ],
+    "id": "12497",
+    "modified_time": "2024-05-06T01:11:47Z",
+    "signature": "14476251577133313619",
+    "version": 3
+}

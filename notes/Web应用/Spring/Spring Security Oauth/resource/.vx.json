@@ -1,0 +1,17 @@
+{
+    "created_time": "2024-05-06T01:10:48Z",
+    "files": [
+    ],
+    "folders": [
+        {
+            "name": "(CVE-2016-4977)SpringSecurityOAuth2远程命令执行漏洞"
+        },
+        {
+            "name": "(CVE-2018-1260)SpringSecurityOauth2远程代码执行"
+        }
+    ],
+    "id": "8761",
+    "modified_time": "2024-05-06T01:10:48Z",
+    "signature": "10111581347080842776",
+    "version": 3
+}

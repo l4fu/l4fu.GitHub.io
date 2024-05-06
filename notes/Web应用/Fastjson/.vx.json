@@ -1,0 +1,94 @@
+{
+    "created_time": "2024-05-06T01:09:40Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:09:40Z",
+            "id": "4271",
+            "modified_time": "2024-05-06T01:09:40Z",
+            "name": "burpscriptExt.py",
+            "signature": "2551389881833631188",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:09:41Z",
+            "id": "4342",
+            "modified_time": "2024-05-06T01:09:41Z",
+            "name": "Fastjson是阿里巴巴公司开源的一款JSON解析库.md",
+            "signature": "13583117070710091221",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:09:41Z",
+            "id": "4345",
+            "modified_time": "2024-05-06T01:09:41Z",
+            "name": "poc.txt",
+            "signature": "13720102595894717909",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:09:42Z",
+            "id": "4356",
+            "modified_time": "2024-05-06T01:09:42Z",
+            "name": "【Fastjson漏洞】原理研究.md",
+            "signature": "7522913968331435478",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:09:42Z",
+            "id": "4359",
+            "modified_time": "2024-05-06T01:09:42Z",
+            "name": "通过Dnslog判断是否使用fastjson.md",
+            "signature": "12867664751437032918",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "Fastjson 1.2.22 - 1.2.24 反序列化漏洞"
+        },
+        {
+            "name": "Fastjson 1.2.24 反序列化RCE"
+        },
+        {
+            "name": "Fastjson 1.2.47 反序列化RCE"
+        },
+        {
+            "name": "Fastjson 1.2.47 远程代码执行漏洞"
+        },
+        {
+            "name": "Fastjson 1.2.60 DoS漏洞无损检测+Fastjson与Jackson组建区分"
+        },
+        {
+            "name": "Fastjson 1.2.68 bypass autotype"
+        },
+        {
+            "name": "Fastjson 1.2.68 反序列化RCE"
+        },
+        {
+            "name": "Fastjson 1.2.68 最新版本有限制 autotype bypass"
+        },
+        {
+            "name": "Fastjson 多版本payload集合"
+        },
+        {
+            "name": "Fastjson各版本反序列化漏洞汇总"
+        },
+        {
+            "name": "resource"
+        }
+    ],
+    "id": "4268",
+    "modified_time": "2024-05-06T01:09:40Z",
+    "signature": "15211668828543528404",
+    "version": 3
+}

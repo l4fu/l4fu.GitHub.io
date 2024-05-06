@@ -1,0 +1,35 @@
+{
+    "created_time": "2024-05-06T01:09:42Z",
+    "files": [
+    ],
+    "folders": [
+        {
+            "name": "Finecms 5.0.10 sql注入漏洞"
+        },
+        {
+            "name": "Finecms 5.0.10 任意代码执行漏洞"
+        },
+        {
+            "name": "Finecms 5.0.10 任意文件上传漏洞"
+        },
+        {
+            "name": "Finecms 5.0.10 会员中心sql注入漏洞"
+        },
+        {
+            "name": "Finecms 5.0.8 任意代码执行漏洞"
+        },
+        {
+            "name": "Finecms 5.0.8 会员中心任意代码执行漏洞"
+        },
+        {
+            "name": "（CVE-2018-18191）Finecms 5.4 存在CSRF漏洞"
+        },
+        {
+            "name": "（CVE-2018-6893）Finecms 5.2.0 SQL注入漏洞"
+        }
+    ],
+    "id": "4410",
+    "modified_time": "2024-05-06T01:09:42Z",
+    "signature": "5715913375980465622",
+    "version": 3
+}

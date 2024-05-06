@@ -1,0 +1,27 @@
+{
+    "created_time": "2024-05-06T01:09:54Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:09:54Z",
+            "id": "5107",
+            "modified_time": "2024-05-06T01:09:54Z",
+            "name": "教程.txt",
+            "signature": "7739592220851318242",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "IIS-ShortName-Scanner"
+        },
+        {
+            "name": "scanner-compiled"
+        }
+    ],
+    "id": "5104",
+    "modified_time": "2024-05-06T01:09:54Z",
+    "signature": "7711053765192199650",
+    "version": 3
+}

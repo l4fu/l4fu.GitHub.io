@@ -1,0 +1,20 @@
+{
+    "created_time": "2024-05-06T01:11:57Z",
+    "files": [
+    ],
+    "folders": [
+        {
+            "name": "稻草人cms1.1.5后台任意文件上传导致getshell"
+        },
+        {
+            "name": "稻草人cms1.1.5后台任意文件删除"
+        },
+        {
+            "name": "稻草人cms1.1.5安装过程信息泄露和getshell"
+        }
+    ],
+    "id": "13133",
+    "modified_time": "2024-05-06T01:11:57Z",
+    "signature": "16226589838474227293",
+    "version": 3
+}

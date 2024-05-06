@@ -1,0 +1,21 @@
+{
+    "created_time": "2024-05-06T01:10:56Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:56Z",
+            "id": "9292",
+            "modified_time": "2024-05-06T01:10:56Z",
+            "name": "Thinkphp Shop 供应商后台本地文件包含导致权限提升.md",
+            "signature": "8254135242851888672",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+    ],
+    "id": "9291",
+    "modified_time": "2024-05-06T01:10:56Z",
+    "signature": "6446242615858310688",
+    "version": 3
+}

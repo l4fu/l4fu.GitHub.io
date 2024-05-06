@@ -1,0 +1,148 @@
+{
+    "created_time": "2024-05-06T01:11:32Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:32Z",
+            "id": "11544",
+            "modified_time": "2024-05-06T01:11:32Z",
+            "name": "README.md",
+            "signature": "17165979330199170628",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:32Z",
+            "id": "11551",
+            "modified_time": "2024-05-06T01:11:32Z",
+            "name": "YzmCMS v3.6 csrf.md",
+            "signature": "12042219526599224900",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:33Z",
+            "id": "11566",
+            "modified_time": "2024-05-06T01:11:33Z",
+            "name": "YzmCMS v3.6 远程命令执行.md",
+            "signature": "1415046229434838597",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:33Z",
+            "id": "11576",
+            "modified_time": "2024-05-06T01:11:33Z",
+            "name": "YzmCMS V5.3 后台ssrf .md",
+            "signature": "11079244209083395653",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:33Z",
+            "id": "11588",
+            "modified_time": "2024-05-06T01:11:33Z",
+            "name": "YzmCMS V5.4 后台getshell（一） .md",
+            "signature": "1816233150254689861",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:33Z",
+            "id": "11598",
+            "modified_time": "2024-05-06T01:11:33Z",
+            "name": "YzmCMS V5.4 后台getshell（二）.md",
+            "signature": "5513573077209329221",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:33Z",
+            "id": "11613",
+            "modified_time": "2024-05-06T01:11:33Z",
+            "name": "YzmCMS V5.7 用户模块时间盲注.md",
+            "signature": "2755819729438912070",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:34Z",
+            "id": "11616",
+            "modified_time": "2024-05-06T01:11:34Z",
+            "name": "YzmCMS Version  小于V5.8正式版 后台采集模块 SSRF漏洞.md",
+            "signature": "4765033648442846790",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:34Z",
+            "id": "11623",
+            "modified_time": "2024-05-06T01:11:34Z",
+            "name": "（CVE-2018-19092）YzmCMS v5.2 xss漏洞.md",
+            "signature": "903625305061076550",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:34Z",
+            "id": "11632",
+            "modified_time": "2024-05-06T01:11:34Z",
+            "name": "（CVE-2018-7653）YzmCMS v3.6 xss漏洞.md",
+            "signature": "13411319873518710342",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:34Z",
+            "id": "11648",
+            "modified_time": "2024-05-06T01:11:34Z",
+            "name": "（CVE-2018-8756）YzmCMS v3.7.1 Eval注入漏洞.md",
+            "signature": "8359765604105203270",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "YzmCMS v3.6 csrf"
+        },
+        {
+            "name": "YzmCMS v3.6 远程命令执行"
+        },
+        {
+            "name": "YzmCMS V5.3 后台ssrf"
+        },
+        {
+            "name": "YzmCMS V5.4 后台getshell（一）"
+        },
+        {
+            "name": "YzmCMS V5.4 后台getshell（二）"
+        },
+        {
+            "name": "YzmCMS V5.7 用户模块时间盲注"
+        },
+        {
+            "name": "（CVE-2018-19092）YzmCMS v5.2 xss漏洞"
+        },
+        {
+            "name": "（CVE-2018-7653）YzmCMS v3.6 xss漏洞"
+        },
+        {
+            "name": "（CVE-2018-8756）YzmCMS v3.7.1 Eval注入漏洞"
+        }
+    ],
+    "id": "11541",
+    "modified_time": "2024-05-06T01:11:32Z",
+    "signature": "12478731569881165380",
+    "version": 3
+}

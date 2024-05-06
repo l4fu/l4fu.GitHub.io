@@ -1,0 +1,20 @@
+{
+    "created_time": "2024-05-06T01:09:24Z",
+    "files": [
+    ],
+    "folders": [
+        {
+            "name": "resource"
+        },
+        {
+            "name": "（CVE-2017-12635）Couchdb 垂直权限绕过漏洞"
+        },
+        {
+            "name": "（CVE-2017-12636）Couchdb 任意命令执行漏洞"
+        }
+    ],
+    "id": "3235",
+    "modified_time": "2024-05-06T01:09:24Z",
+    "signature": "14344051818042502596",
+    "version": 3
+}

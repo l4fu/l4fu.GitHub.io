@@ -1,0 +1,24 @@
+{
+    "created_time": "2024-05-06T01:09:29Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:09:29Z",
+            "id": "3502",
+            "modified_time": "2024-05-06T01:09:29Z",
+            "name": "Discuz! X3.4 任意文件删除配合install过程getshell.md",
+            "signature": "11164246276205718985",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "resource"
+        }
+    ],
+    "id": "3501",
+    "modified_time": "2024-05-06T01:09:29Z",
+    "signature": "7347921946832022985",
+    "version": 3
+}

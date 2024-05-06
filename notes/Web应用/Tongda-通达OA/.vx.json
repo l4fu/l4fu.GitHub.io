@@ -1,0 +1,395 @@
+{
+    "created_time": "2024-05-06T01:11:03Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:04Z",
+            "id": "9811",
+            "modified_time": "2024-05-06T01:11:04Z",
+            "name": "通达oa 11.2 后台getshell.md",
+            "signature": "310554419575402024",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:04Z",
+            "id": "9817",
+            "modified_time": "2024-05-06T01:11:04Z",
+            "name": "通达oa 11.5 sql注入漏洞.md",
+            "signature": "4639075696603835944",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:04Z",
+            "id": "9823",
+            "modified_time": "2024-05-06T01:11:04Z",
+            "name": "通达oa 11.5 未授权访问漏洞.md",
+            "signature": "6864607988522954280",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:04Z",
+            "id": "9829",
+            "modified_time": "2024-05-06T01:11:04Z",
+            "name": "通达oa 11.6 远程命令执行漏洞.md",
+            "signature": "12134176975429840424",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:04Z",
+            "id": "9835",
+            "modified_time": "2024-05-06T01:11:04Z",
+            "name": "通达oa 11.7 后台getshell.md",
+            "signature": "6980735378696711720",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:04Z",
+            "id": "9841",
+            "modified_time": "2024-05-06T01:11:04Z",
+            "name": "通达oa 11.7 后台sql注入漏洞&rce.md",
+            "signature": "7144318476704296489",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:05Z",
+            "id": "9847",
+            "modified_time": "2024-05-06T01:11:05Z",
+            "name": "通达oa 2007 sql注入漏洞.md",
+            "signature": "9094084172816330281",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:05Z",
+            "id": "9853",
+            "modified_time": "2024-05-06T01:11:05Z",
+            "name": "通达oa 2011-2013 通杀GETSHELL.md",
+            "signature": "10747634186500714025",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:05Z",
+            "id": "9859",
+            "modified_time": "2024-05-06T01:11:05Z",
+            "name": "通达oa sql注入.md",
+            "signature": "8198741701015645737",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:05Z",
+            "id": "9862",
+            "modified_time": "2024-05-06T01:11:05Z",
+            "name": "通达OA v11.2 后台任意文件上传漏洞.md",
+            "signature": "9375482711994019369",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:05Z",
+            "id": "9865",
+            "modified_time": "2024-05-06T01:11:05Z",
+            "name": "通达OA v11.6 任意文件删除&RCE.md",
+            "signature": "1980366566716878377",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:05Z",
+            "id": "9868",
+            "modified_time": "2024-05-06T01:11:05Z",
+            "name": "通达OA v11.7 后台SQL注入.md",
+            "signature": "17630717052441865769",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:05Z",
+            "id": "9871",
+            "modified_time": "2024-05-06T01:11:05Z",
+            "name": "通达OA v11.7 在线用户登录漏洞.md",
+            "signature": "8039315435565887017",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:05Z",
+            "id": "9874",
+            "modified_time": "2024-05-06T01:11:05Z",
+            "name": "通达OA v11.8 后台文件包含XSS漏洞.md",
+            "signature": "15447181702362312233",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:05Z",
+            "id": "9877",
+            "modified_time": "2024-05-06T01:11:05Z",
+            "name": "通达OA v11.8 后台文件包含命令执行漏洞.md",
+            "signature": "13854582445748792873",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:05Z",
+            "id": "9880",
+            "modified_time": "2024-05-06T01:11:05Z",
+            "name": "通达OA v11.8 文件包含XSS漏洞.md",
+            "signature": "15442066297528528425",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:05Z",
+            "id": "9886",
+            "modified_time": "2024-05-06T01:11:05Z",
+            "name": "通达OA v11.9 后台SQL注入漏洞.md",
+            "signature": "3400276179179548201",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:05Z",
+            "id": "9889",
+            "modified_time": "2024-05-06T01:11:05Z",
+            "name": "通达OA v11.x-v11.5任意用户登录.md",
+            "signature": "13993133658311503401",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:05Z",
+            "id": "9895",
+            "modified_time": "2024-05-06T01:11:05Z",
+            "name": "通达oa XFF导致日志混淆.md",
+            "signature": "3622286620712513066",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:06Z",
+            "id": "9901",
+            "modified_time": "2024-05-06T01:11:06Z",
+            "name": "通达oa xss.md",
+            "signature": "697377586777959978",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:06Z",
+            "id": "9907",
+            "modified_time": "2024-05-06T01:11:06Z",
+            "name": "通达oa ⻚面敏感信息泄露.md",
+            "signature": "13978093537539403306",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:06Z",
+            "id": "9913",
+            "modified_time": "2024-05-06T01:11:06Z",
+            "name": "通达oa 任意⽂件上传漏洞.md",
+            "signature": "15448998593787604522",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:06Z",
+            "id": "9919",
+            "modified_time": "2024-05-06T01:11:06Z",
+            "name": "通达oa 任意文件上传+rce+文件包含.md",
+            "signature": "885451490250468906",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:06Z",
+            "id": "9925",
+            "modified_time": "2024-05-06T01:11:06Z",
+            "name": "通达oa 任意账号跳转.md",
+            "signature": "16434161622160256554",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:06Z",
+            "id": "9936",
+            "modified_time": "2024-05-06T01:11:06Z",
+            "name": "通达oa 小技巧.md",
+            "signature": "13443023934823345706",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:06Z",
+            "id": "9942",
+            "modified_time": "2024-05-06T01:11:06Z",
+            "name": "通达oa 数据库脚本导⼊getshell.md",
+            "signature": "5620285959199796778",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:06Z",
+            "id": "9948",
+            "modified_time": "2024-05-06T01:11:06Z",
+            "name": "通达oa 文件包含漏洞.md",
+            "signature": "6484928215222070826",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:07Z",
+            "id": "9954",
+            "modified_time": "2024-05-06T01:11:07Z",
+            "name": "通达oa 越权访问.md",
+            "signature": "2832238673787366955",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:07Z",
+            "id": "9981",
+            "modified_time": "2024-05-06T01:11:07Z",
+            "name": "通达OA部分漏洞信息整合.md",
+            "signature": "13584655124268592683",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:07Z",
+            "id": "9987",
+            "modified_time": "2024-05-06T01:11:07Z",
+            "name": "（WooYun-2014-82678）通达oa未授权获取帐号.md",
+            "signature": "3362383108656082475",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "POC"
+        },
+        {
+            "name": "resource"
+        },
+        {
+            "name": "通达 OA 任意用户登录"
+        },
+        {
+            "name": "通达OA  11.5.200417 任意用户登录漏洞"
+        },
+        {
+            "name": "通达oa 11.2 后台getshell"
+        },
+        {
+            "name": "通达oa 11.5 sql注入漏洞"
+        },
+        {
+            "name": "通达oa 11.5 未授权访问漏洞"
+        },
+        {
+            "name": "通达oa 11.6 远程命令执行漏洞"
+        },
+        {
+            "name": "通达oa 11.7 后台getshell"
+        },
+        {
+            "name": "通达oa 11.7 后台sql注入漏洞&rce"
+        },
+        {
+            "name": "通达oa 2007 sql注入漏洞"
+        },
+        {
+            "name": "通达oa 2011-2013 通杀GETSHELL"
+        },
+        {
+            "name": "通达oa sql注入"
+        },
+        {
+            "name": "通达OA v11.9 后台SQL注入漏洞"
+        },
+        {
+            "name": "通达oa XFF导致日志混淆"
+        },
+        {
+            "name": "通达oa xss"
+        },
+        {
+            "name": "通达oa ⻚面敏感信息泄露"
+        },
+        {
+            "name": "通达oa 任意⽂件上传漏洞"
+        },
+        {
+            "name": "通达oa 任意文件上传+rce+文件包含"
+        },
+        {
+            "name": "通达oa 任意账号跳转"
+        },
+        {
+            "name": "通达OA 变量覆盖导致的RCE"
+        },
+        {
+            "name": "通达oa 小技巧"
+        },
+        {
+            "name": "通达oa 数据库脚本导⼊getshell"
+        },
+        {
+            "name": "通达oa 文件包含漏洞"
+        },
+        {
+            "name": "通达oa 越权访问"
+        },
+        {
+            "name": "通达OA任意文件上传配合文件包含导致的RCE"
+        },
+        {
+            "name": "通达OA任意用户登录配合RCE getshell"
+        },
+        {
+            "name": "（WooYun-2014-82678）通达oa未授权获取帐号"
+        }
+    ],
+    "id": "9762",
+    "modified_time": "2024-05-06T01:11:03Z",
+    "signature": "9629628416663236135",
+    "version": 3
+}

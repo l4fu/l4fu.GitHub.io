@@ -1,0 +1,102 @@
+{
+    "created_time": "2024-05-06T01:12:15Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:12:15Z",
+            "id": "14533",
+            "modified_time": "2024-05-06T01:12:15Z",
+            "name": "（CVE-2018-11019）Amazon Kindle Fire HD (3rd) Fire OS kernel组件安全漏洞.md",
+            "signature": "4379102782170869359",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:12:15Z",
+            "id": "14536",
+            "modified_time": "2024-05-06T01:12:15Z",
+            "name": "（CVE-2018-11020）Amazon Kindle Fire HD (3rd) Fire OS kernel组件安全漏洞.md",
+            "signature": "14540185193286217327",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:12:15Z",
+            "id": "14540",
+            "modified_time": "2024-05-06T01:12:15Z",
+            "name": "（CVE-2018-11021）Amazon Kindle Fire HD (3rd) Fire OS kernel组件安全漏洞.md",
+            "signature": "10199691944028286575",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:12:15Z",
+            "id": "14543",
+            "modified_time": "2024-05-06T01:12:15Z",
+            "name": "（CVE-2018-11022）Amazon Kindle Fire HD (3rd) Fire OS kernel组件安全漏洞.md",
+            "signature": "1515107723207257711",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:12:15Z",
+            "id": "14546",
+            "modified_time": "2024-05-06T01:12:15Z",
+            "name": "（CVE-2018-11023）Amazon Kindle Fire HD (3rd) Fire OS kernel组件安全漏洞.md",
+            "signature": "7735062675326512751",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:12:15Z",
+            "id": "14549",
+            "modified_time": "2024-05-06T01:12:15Z",
+            "name": "（CVE-2018-11024）Amazon Kindle Fire HD (3rd) Fire OS kernel组件安全漏洞.md",
+            "signature": "9143561040720047727",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:12:15Z",
+            "id": "14552",
+            "modified_time": "2024-05-06T01:12:15Z",
+            "name": "（CVE-2018-11025）Amazon Kindle Fire HD (3rd) Fire OS kernel组件安全漏洞.md",
+            "signature": "14021550570691112559",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "（CVE-2018-11019）Amazon Kindle Fire HD (3rd) Fire OS kernel组件安全漏洞"
+        },
+        {
+            "name": "（CVE-2018-11020）Amazon Kindle Fire HD (3rd) Fire OS kernel组件安全漏洞"
+        },
+        {
+            "name": "（CVE-2018-11021）Amazon Kindle Fire HD (3rd) Fire OS kernel组件安全漏洞"
+        },
+        {
+            "name": "（CVE-2018-11022）Amazon Kindle Fire HD (3rd) Fire OS kernel组件安全漏洞"
+        },
+        {
+            "name": "（CVE-2018-11023）Amazon Kindle Fire HD (3rd) Fire OS kernel组件安全漏洞"
+        },
+        {
+            "name": "（CVE-2018-11024）Amazon Kindle Fire HD (3rd) Fire OS kernel组件安全漏洞"
+        },
+        {
+            "name": "（CVE-2018-11025）Amazon Kindle Fire HD (3rd) Fire OS kernel组件安全漏洞"
+        }
+    ],
+    "id": "14529",
+    "modified_time": "2024-05-06T01:12:15Z",
+    "signature": "3045016241303989871",
+    "version": 3
+}

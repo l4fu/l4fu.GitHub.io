@@ -1,0 +1,34 @@
+{
+    "created_time": "2024-05-06T01:09:24Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:09:24Z",
+            "id": "3213",
+            "modified_time": "2024-05-06T01:09:24Z",
+            "name": "Coremail 配置信息泄露漏洞.md",
+            "signature": "15176295881620598212",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:09:24Z",
+            "id": "3214",
+            "modified_time": "2024-05-06T01:09:24Z",
+            "name": "Coremail配置文件信息泄漏.md",
+            "signature": "10327418722313579972",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "resource"
+        }
+    ],
+    "id": "3212",
+    "modified_time": "2024-05-06T01:09:24Z",
+    "signature": "2541331467858357700",
+    "version": 3
+}

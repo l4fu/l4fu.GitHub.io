@@ -1,0 +1,146 @@
+{
+    "created_time": "2024-05-06T01:09:57Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:09:57Z",
+            "id": "5264",
+            "modified_time": "2024-05-06T01:09:57Z",
+            "name": "JBoss 4.x JBossMQ JMS 反序列化漏洞 CVE-2017-7504.md",
+            "signature": "2304287163320643045",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:09:57Z",
+            "id": "5273",
+            "modified_time": "2024-05-06T01:09:57Z",
+            "name": "JBoss Administration Console 弱口令 Getshell.md",
+            "signature": "7384079936467250661",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:09:57Z",
+            "id": "5276",
+            "modified_time": "2024-05-06T01:09:57Z",
+            "name": "JBoss JMX Console未授权访问Getshell.md",
+            "signature": "8840764854214602213",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:09:57Z",
+            "id": "5279",
+            "modified_time": "2024-05-06T01:09:57Z",
+            "name": "JBoss.md",
+            "signature": "10041011314965884389",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:09:58Z",
+            "id": "5303",
+            "modified_time": "2024-05-06T01:09:58Z",
+            "name": "JexBoss - JBoss (and others Java Deserialization Vulnerabilities) verify and EXploitation Tool.md",
+            "signature": "14355335809525624294",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:09:58Z",
+            "id": "5306",
+            "modified_time": "2024-05-06T01:09:58Z",
+            "name": "README.md",
+            "signature": "16058418259400601062",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:09:59Z",
+            "id": "5355",
+            "modified_time": "2024-05-06T01:09:59Z",
+            "name": "（CVE-2007-1036）JBoss JMX Console HtmlAdaptor Getshell.md",
+            "signature": "924407255942049255",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:09:59Z",
+            "id": "5358",
+            "modified_time": "2024-05-06T01:09:59Z",
+            "name": "（CVE-2010-0738）JBoss JMX控制台安全验证绕过漏洞.md",
+            "signature": "9714691150198615527",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:09:59Z",
+            "id": "5361",
+            "modified_time": "2024-05-06T01:09:59Z",
+            "name": "（CVE-2013-4810）JBoss EJBInvokerServle 反序列化漏洞.md",
+            "signature": "4960649832314711527",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:09:59Z",
+            "id": "5364",
+            "modified_time": "2024-05-06T01:09:59Z",
+            "name": "（CVE-2015-7501）JBoss JMXInvokerServlet 反序列化漏洞.md",
+            "signature": "12026474082002808295",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:09:59Z",
+            "id": "5367",
+            "modified_time": "2024-05-06T01:09:59Z",
+            "name": "（CVE-2017-12149）JBosS AS 6.X 反序列化漏洞.md",
+            "signature": "16817312188597808615",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:09:59Z",
+            "id": "5370",
+            "modified_time": "2024-05-06T01:09:59Z",
+            "name": "（CVE-2017-7504）JBoss 4.x JBossMQ JMS 反序列化漏洞.md",
+            "signature": "1602434956774616551",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "image"
+        },
+        {
+            "name": "JBoss 5.x-6.x 反序列化漏洞（CVE-2017-12149）"
+        },
+        {
+            "name": "jexboss"
+        },
+        {
+            "name": "resource"
+        },
+        {
+            "name": "Scan"
+        }
+    ],
+    "id": "5258",
+    "modified_time": "2024-05-06T01:09:57Z",
+    "signature": "14143319786955222501",
+    "version": 3
+}

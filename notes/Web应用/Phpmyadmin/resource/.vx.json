@@ -1,0 +1,29 @@
+{
+    "created_time": "2024-05-06T01:10:31Z",
+    "files": [
+    ],
+    "folders": [
+        {
+            "name": "(CVE-2016-5734)Phpmyadmin后台远程命令执行漏洞"
+        },
+        {
+            "name": "(CVE-2018-12613)Phpmyadmin远程文件包含漏洞"
+        },
+        {
+            "name": "(CVE-2018-19968)Phpmyadmin文件包含漏洞"
+        },
+        {
+            "name": "(CVE-2019-18622)Phpmyadminxss"
+        },
+        {
+            "name": "Phpmyadmin4.8.3XSS"
+        },
+        {
+            "name": "Phpmyadminsetup页面配置不当的利用姿势整合"
+        }
+    ],
+    "id": "7563",
+    "modified_time": "2024-05-06T01:10:31Z",
+    "signature": "1625533827763416583",
+    "version": 3
+}

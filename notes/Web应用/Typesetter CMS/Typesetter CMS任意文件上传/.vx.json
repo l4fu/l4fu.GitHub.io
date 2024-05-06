@@ -1,0 +1,24 @@
+{
+    "created_time": "2024-05-06T01:11:08Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:08Z",
+            "id": "10028",
+            "modified_time": "2024-05-06T01:11:08Z",
+            "name": "Typesetter CMS任意文件上传.md",
+            "signature": "4208508528009686572",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "resource"
+        }
+    ],
+    "id": "10027",
+    "modified_time": "2024-05-06T01:11:08Z",
+    "signature": "13657120903408397868",
+    "version": 3
+}

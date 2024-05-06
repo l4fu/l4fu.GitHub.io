@@ -1,0 +1,76 @@
+{
+    "created_time": "2024-05-06T01:12:02Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:12:02Z",
+            "id": "13441",
+            "modified_time": "2024-05-06T01:12:02Z",
+            "name": "README.md",
+            "signature": "18162227467299335778",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:12:03Z",
+            "id": "13474",
+            "modified_time": "2024-05-06T01:12:03Z",
+            "name": "齐治堡垒机 任意用户登录漏洞.md",
+            "signature": "6309787819782450787",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:12:03Z",
+            "id": "13480",
+            "modified_time": "2024-05-06T01:12:03Z",
+            "name": "（CNVD-2019-09593）齐治堡垒机 ShtermClient-2.1.1 命令执行漏洞.md",
+            "signature": "2247153837606973027",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:12:03Z",
+            "id": "13486",
+            "modified_time": "2024-05-06T01:12:03Z",
+            "name": "（CNVD-2019-17294）齐治堡垒机 后台命令执行漏洞.md",
+            "signature": "12417328990840696419",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:12:03Z",
+            "id": "13492",
+            "modified_time": "2024-05-06T01:12:03Z",
+            "name": "（CNVD-2019-20835）齐治堡垒机 前台远程命令执行漏洞.md",
+            "signature": "11358856535787187811",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "resource"
+        },
+        {
+            "name": "齐治堡垒机 任意用户登录漏洞"
+        },
+        {
+            "name": "（CNVD-2019-09593）齐治堡垒机 ShtermClient-2.1.1 命令执行漏洞"
+        },
+        {
+            "name": "（CNVD-2019-17294）齐治堡垒机 后台命令执行漏洞"
+        },
+        {
+            "name": "（CNVD-2019-20835）齐治堡垒机 前台远程命令执行漏洞"
+        }
+    ],
+    "id": "13438",
+    "modified_time": "2024-05-06T01:12:02Z",
+    "signature": "13100552008668556898",
+    "version": 3
+}

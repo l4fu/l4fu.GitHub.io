@@ -1,0 +1,39 @@
+{
+    "created_time": "2024-05-06T01:09:36Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:09:36Z",
+            "id": "4020",
+            "modified_time": "2024-05-06T01:09:36Z",
+            "name": "Exchange Server.md",
+            "signature": "3702735103378075088",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "CVE-2020-0688 Exchange Rce"
+        },
+        {
+            "name": "CVE-2020-17144 Exchange RCE"
+        },
+        {
+            "name": "CVE-2021-26855 Exchange RCE"
+        },
+        {
+            "name": "RCE-普通用户（CVE-2020-17144）"
+        },
+        {
+            "name": "RCE-需要域用户（CVE-2020-0688）"
+        },
+        {
+            "name": "SSRF to RCE（CVE-2021-26855）"
+        }
+    ],
+    "id": "3990",
+    "modified_time": "2024-05-06T01:09:36Z",
+    "signature": "16875383578118598096",
+    "version": 3
+}

@@ -1,0 +1,174 @@
+{
+    "created_time": "2024-05-06T01:10:46Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:46Z",
+            "id": "8626",
+            "modified_time": "2024-05-06T01:10:46Z",
+            "name": "Spring Boot Actuator H2 RCE.md",
+            "signature": "15012978242656677398",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:46Z",
+            "id": "8628",
+            "modified_time": "2024-05-06T01:10:46Z",
+            "name": "Spring Boot Actuator hikari配置不当导致的远程命令执行漏洞.md",
+            "signature": "11638107608496746006",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:46Z",
+            "id": "8630",
+            "modified_time": "2024-05-06T01:10:46Z",
+            "name": "Spring Boot Actuator jolokia 配置不当导致的rce漏洞.md",
+            "signature": "6550864153718304278",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:46Z",
+            "id": "8632",
+            "modified_time": "2024-05-06T01:10:46Z",
+            "name": "Spring Boot Actuator jolokia 配置不当导致的XXE漏洞.md",
+            "signature": "9945773438834060822",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:46Z",
+            "id": "8634",
+            "modified_time": "2024-05-06T01:10:46Z",
+            "name": "Spring Boot eureka xstream deserialization rce.md",
+            "signature": "5973530917463404054",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:46Z",
+            "id": "8636",
+            "modified_time": "2024-05-06T01:10:46Z",
+            "name": "Spring Boot h2 database query rce.md",
+            "signature": "2263551163749641750",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:46Z",
+            "id": "8638",
+            "modified_time": "2024-05-06T01:10:46Z",
+            "name": "Spring Boot mysql jdbc deserialization rce.md",
+            "signature": "4689961361025281558",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:46Z",
+            "id": "8640",
+            "modified_time": "2024-05-06T01:10:46Z",
+            "name": "Spring Boot sql.md",
+            "signature": "4305966640240537110",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:46Z",
+            "id": "8642",
+            "modified_time": "2024-05-06T01:10:46Z",
+            "name": "Spring Boot Thymeleaf 模板注入.md",
+            "signature": "90830408177430038",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:46Z",
+            "id": "8644",
+            "modified_time": "2024-05-06T01:10:46Z",
+            "name": "Spring Boot Tomcat导致的JNDI注入.md",
+            "signature": "1373362730013568535",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:47Z",
+            "id": "8646",
+            "modified_time": "2024-05-06T01:10:47Z",
+            "name": "Spring Boot whitelabel error page SpEL rce.md",
+            "signature": "2999924556484324887",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:47Z",
+            "id": "8648",
+            "modified_time": "2024-05-06T01:10:47Z",
+            "name": "Spring Boot 修改环境属性导致的rce.md",
+            "signature": "5680938091489537559",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:47Z",
+            "id": "8650",
+            "modified_time": "2024-05-06T01:10:47Z",
+            "name": "Spring Boot 提取内存密码.md",
+            "signature": "6590610227752087063",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:47Z",
+            "id": "8652",
+            "modified_time": "2024-05-06T01:10:47Z",
+            "name": "Spring Boot 获取被星号脱敏的密码的明文.md",
+            "signature": "1927365214290325015",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:47Z",
+            "id": "8654",
+            "modified_time": "2024-05-06T01:10:47Z",
+            "name": "Spring Boot 路由地址及接口调用详情泄漏.md",
+            "signature": "16701881704112467479",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:47Z",
+            "id": "8656",
+            "modified_time": "2024-05-06T01:10:47Z",
+            "name": "Spring Boot 配置不当而暴露的路由.md",
+            "signature": "10716402898016153111",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "resource"
+        }
+    ],
+    "id": "8655",
+    "modified_time": "2024-05-06T01:10:46Z",
+    "signature": "10302060518138457622",
+    "version": 3
+}

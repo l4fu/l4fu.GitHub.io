@@ -1,0 +1,24 @@
+{
+    "created_time": "2024-05-06T01:11:49Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:49Z",
+            "id": "12632",
+            "modified_time": "2024-05-06T01:11:49Z",
+            "name": "泛微OA V9 任意文件上传.md",
+            "signature": "16285335194263105109",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "resource"
+        }
+    ],
+    "id": "12631",
+    "modified_time": "2024-05-06T01:11:49Z",
+    "signature": "12908378335573716565",
+    "version": 3
+}

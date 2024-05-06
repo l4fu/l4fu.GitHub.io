@@ -1,0 +1,24 @@
+{
+    "created_time": "2024-05-06T01:09:52Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:09:52Z",
+            "id": "4962",
+            "modified_time": "2024-05-06T01:09:52Z",
+            "name": "HiBOS酒店宽带运营系统RCE漏洞.md",
+            "signature": "8499025855638941152",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "resource"
+        }
+    ],
+    "id": "4959",
+    "modified_time": "2024-05-06T01:09:52Z",
+    "signature": "12618446645566647776",
+    "version": 3
+}

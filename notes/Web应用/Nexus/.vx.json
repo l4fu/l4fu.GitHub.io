@@ -1,0 +1,151 @@
+{
+    "created_time": "2024-05-06T01:10:19Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:19Z",
+            "id": "6610",
+            "modified_time": "2024-05-06T01:10:19Z",
+            "name": "Nexus Repository Manager3 ProXXE分析(CVE-2020-29436).md",
+            "signature": "17524869408793046523",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:19Z",
+            "id": "6611",
+            "modified_time": "2024-05-06T01:10:19Z",
+            "name": "Nexus Repository Manger change-password 低权限修改管理员密码漏洞 CVE-2020-11444.md",
+            "signature": "5830192792050609659",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:19Z",
+            "id": "6612",
+            "modified_time": "2024-05-06T01:10:19Z",
+            "name": "Nexus Repository Manger extdirect 后台远程命令执行 CVE-2020-10204.md",
+            "signature": "11045130202974268923",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:19Z",
+            "id": "6613",
+            "modified_time": "2024-05-06T01:10:19Z",
+            "name": "Nexus Repository Manger extdirect 远程命令执行 CVE-2019-7238.md",
+            "signature": "10250153824026635771",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:19Z",
+            "id": "6614",
+            "modified_time": "2024-05-06T01:10:19Z",
+            "name": "Nexus Repository Manger group 后台远程命令执行 CVE-2020-10199.md",
+            "signature": "8108148638740917755",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:19Z",
+            "id": "6615",
+            "modified_time": "2024-05-06T01:10:19Z",
+            "name": "Nexus 是一个强大的 maven 仓库管理器.md",
+            "signature": "13573369363258945019",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:19Z",
+            "id": "6622",
+            "modified_time": "2024-05-06T01:10:19Z",
+            "name": "（CVE-2019-5475）Nexus2 yum插件RCE漏洞.md",
+            "signature": "8010795126143593979",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:19Z",
+            "id": "6631",
+            "modified_time": "2024-05-06T01:10:19Z",
+            "name": "（CVE-2019-7238）Nexus Repository Manager 远程代码执行.md",
+            "signature": "5387294531831475707",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:19Z",
+            "id": "6640",
+            "modified_time": "2024-05-06T01:10:19Z",
+            "name": "（CVE-2020-10199）Nexus Repository Manager 远程代码执行漏洞.md",
+            "signature": "14158887076308200955",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:19Z",
+            "id": "6650",
+            "modified_time": "2024-05-06T01:10:19Z",
+            "name": "（CVE-2020-10204）Nexus Repository Manager 远程执行代码漏洞.md",
+            "signature": "8040364081895976443",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:19Z",
+            "id": "6654",
+            "modified_time": "2024-05-06T01:10:19Z",
+            "name": "（CVE-2020-11444）Nexus Repository Manager 远程代码执行漏洞.md",
+            "signature": "2124753196725841403",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "CVE-2020-10199 Nexus Repository Manager 3 表达式解析漏洞 RCE"
+        },
+        {
+            "name": "CVE-2020-10204 Nexus Repository Manager 3 表达式解析漏洞 RCE"
+        },
+        {
+            "name": "Nexus Repository Manager 3 访问控制缺失及远程代码执行漏洞（CVE-2019-7238）"
+        },
+        {
+            "name": "Nexus Repository Manager 3 远程命令执行漏洞（CVE-2020-10204）"
+        },
+        {
+            "name": "Nexus Repository Manager3 ProXXE分析(CVE-2020-29436)"
+        },
+        {
+            "name": "（CVE-2019-5475）Nexus2 yum插件RCE漏洞"
+        },
+        {
+            "name": "（CVE-2019-7238）Nexus Repository Manager 远程代码执行"
+        },
+        {
+            "name": "（CVE-2020-10199）Nexus Repository Manager 远程代码执行漏洞"
+        },
+        {
+            "name": "（CVE-2020-10204）Nexus Repository Manager 远程执行代码漏洞"
+        },
+        {
+            "name": "（CVE-2020-11444）Nexus Repository Manager 远程代码执行漏洞"
+        }
+    ],
+    "id": "6597",
+    "modified_time": "2024-05-06T01:10:19Z",
+    "signature": "7595458620250664443",
+    "version": 3
+}

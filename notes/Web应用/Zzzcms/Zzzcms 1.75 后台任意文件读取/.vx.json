@@ -1,0 +1,24 @@
+{
+    "created_time": "2024-05-06T01:11:37Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:38Z",
+            "id": "11858",
+            "modified_time": "2024-05-06T01:11:38Z",
+            "name": "Zzzcms 1.75 后台任意文件读取.md",
+            "signature": "14530734298139995722",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "resource"
+        }
+    ],
+    "id": "11852",
+    "modified_time": "2024-05-06T01:11:37Z",
+    "signature": "214808517531938377",
+    "version": 3
+}

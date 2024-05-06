@@ -1,0 +1,24 @@
+{
+    "created_time": "2024-05-06T01:11:15Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:15Z",
+            "id": "10608",
+            "modified_time": "2024-05-06T01:11:15Z",
+            "name": "WellCMS 2.0 Beta3 后台任意文件上传.md",
+            "signature": "18140421746538851891",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "resource"
+        }
+    ],
+    "id": "10604",
+    "modified_time": "2024-05-06T01:11:15Z",
+    "signature": "128242584097664563",
+    "version": 3
+}

@@ -1,0 +1,27 @@
+{
+    "created_time": "2024-05-06T01:10:57Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:57Z",
+            "id": "9433",
+            "modified_time": "2024-05-06T01:10:57Z",
+            "name": "简介.html",
+            "signature": "12095731361658711585",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "URL差异性"
+        },
+        {
+            "name": "调试分析"
+        }
+    ],
+    "id": "9427",
+    "modified_time": "2024-05-06T01:10:57Z",
+    "signature": "13394579967899610657",
+    "version": 3
+}

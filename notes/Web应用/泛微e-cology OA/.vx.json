@@ -1,0 +1,133 @@
+{
+    "created_time": "2024-05-06T01:11:49Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:49Z",
+            "id": "12595",
+            "modified_time": "2024-05-06T01:11:49Z",
+            "name": "查询清单.txt",
+            "signature": "2630301925848395349",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:49Z",
+            "id": "12604",
+            "modified_time": "2024-05-06T01:11:49Z",
+            "name": "泛微 E-Bridge 云桥任意文件读取.md",
+            "signature": "15491390543769382485",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:49Z",
+            "id": "12623",
+            "modified_time": "2024-05-06T01:11:49Z",
+            "name": "泛微OA V8 SQL注入漏洞.md",
+            "signature": "534934587839098453",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:49Z",
+            "id": "12633",
+            "modified_time": "2024-05-06T01:11:49Z",
+            "name": "泛微OA V9 任意文件上传.md",
+            "signature": "11354436550583135829",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:49Z",
+            "id": "12641",
+            "modified_time": "2024-05-06T01:11:49Z",
+            "name": "泛微OA WorkflowCenterTreeData接口注入漏洞(限oracle数据库).md",
+            "signature": "3060094398306463317",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:49Z",
+            "id": "12644",
+            "modified_time": "2024-05-06T01:11:49Z",
+            "name": "泛微OA 数据库配置文件读取.md",
+            "signature": "6199314384686689877",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:49Z",
+            "id": "12647",
+            "modified_time": "2024-05-06T01:11:49Z",
+            "name": "泛微OA 日志泄露.md",
+            "signature": "1896103349933583957",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:49Z",
+            "id": "12651",
+            "modified_time": "2024-05-06T01:11:49Z",
+            "name": "泛微OA 管理系统RCE漏洞.md",
+            "signature": "14155093529264139861",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "CNVD-2019-34241 SQL注入"
+        },
+        {
+            "name": "数据库配置信息泄露"
+        },
+        {
+            "name": "泛微 E-Bridge 云桥任意文件读取"
+        },
+        {
+            "name": "泛微e-cology OA Beanshell组件远程代码执行"
+        },
+        {
+            "name": "泛微E-Cology WorkflowServiceXml RCE也叫xstream反序列化"
+        },
+        {
+            "name": "泛微OA  =9.0 sql注入漏洞"
+        },
+        {
+            "name": "泛微OA E-cology =9.0 远程代码执行漏洞"
+        },
+        {
+            "name": "泛微OA V8 SQL注入漏洞"
+        },
+        {
+            "name": "泛微OA V9 任意文件上传"
+        },
+        {
+            "name": "泛微OA weaver.common.Ctrl 任意文件上传漏洞"
+        },
+        {
+            "name": "泛微OA WorkflowCenterTreeData接口注入漏洞(限oracle数据库)"
+        },
+        {
+            "name": "泛微OA 数据库配置文件读取"
+        },
+        {
+            "name": "泛微OA 日志泄露"
+        },
+        {
+            "name": "泛微OA 管理系统RCE漏洞"
+        }
+    ],
+    "id": "12586",
+    "modified_time": "2024-05-06T01:11:49Z",
+    "signature": "6277283494401420885",
+    "version": 3
+}

@@ -1,0 +1,50 @@
+{
+    "created_time": "2024-05-06T01:11:14Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:14Z",
+            "id": "10515",
+            "modified_time": "2024-05-06T01:11:14Z",
+            "name": "CVE-2020-4276 4362 IBM WebSphere远程代码执行漏洞.md",
+            "signature": "6017856057994915378",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:14Z",
+            "id": "10524",
+            "modified_time": "2024-05-06T01:11:14Z",
+            "name": "CVE-2020-4450 IBM WebSphere IIOP协议远程代码执行漏洞.md",
+            "signature": "2539109548132150834",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:14Z",
+            "id": "10533",
+            "modified_time": "2024-05-06T01:11:14Z",
+            "name": "CVE-2020-4643 IBM WebSphere存在XXE外部实体注入漏洞.md",
+            "signature": "15576835018292997682",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "CVE-2020-4276 4362 IBM WebSphere远程代码执行漏洞"
+        },
+        {
+            "name": "CVE-2020-4450 IBM WebSphere IIOP协议远程代码执行漏洞"
+        },
+        {
+            "name": "CVE-2020-4643 IBM WebSphere存在XXE外部实体注入漏洞"
+        }
+    ],
+    "id": "10505",
+    "modified_time": "2024-05-06T01:11:14Z",
+    "signature": "14946960137141104178",
+    "version": 3
+}

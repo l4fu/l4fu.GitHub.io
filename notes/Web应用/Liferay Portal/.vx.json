@@ -1,0 +1,24 @@
+{
+    "created_time": "2024-05-06T01:10:10Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:10Z",
+            "id": "6041",
+            "modified_time": "2024-05-06T01:10:10Z",
+            "name": "（CVE-2020-7961）Liferay Portal Json Web Service 反序列化漏洞.md",
+            "signature": "15408574060949941746",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "（CVE-2020-7961）Liferay Portal Json Web Service 反序列化漏洞"
+        }
+    ],
+    "id": "6034",
+    "modified_time": "2024-05-06T01:10:10Z",
+    "signature": "4454359237786086898",
+    "version": 3
+}

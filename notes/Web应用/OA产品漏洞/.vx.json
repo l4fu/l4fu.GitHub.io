@@ -1,0 +1,51 @@
+{
+    "created_time": "2024-05-06T01:10:21Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:21Z",
+            "id": "6798",
+            "modified_time": "2024-05-06T01:10:21Z",
+            "name": "README.md",
+            "signature": "8828352355779489277",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "启莱OA"
+        },
+        {
+            "name": "帆软OA"
+        },
+        {
+            "name": "新点OA"
+        },
+        {
+            "name": "泛微OA"
+        },
+        {
+            "name": "用友OA"
+        },
+        {
+            "name": "致远OA"
+        },
+        {
+            "name": "蓝凌OA"
+        },
+        {
+            "name": "通达OA"
+        },
+        {
+            "name": "金和OA"
+        },
+        {
+            "name": "金蝶OA"
+        }
+    ],
+    "id": "6797",
+    "modified_time": "2024-05-06T01:10:21Z",
+    "signature": "8153784753615023613",
+    "version": 3
+}

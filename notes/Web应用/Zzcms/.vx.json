@@ -1,0 +1,89 @@
+{
+    "created_time": "2024-05-06T01:11:36Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:36Z",
+            "id": "11756",
+            "modified_time": "2024-05-06T01:11:36Z",
+            "name": "Zzcms 2018 最新版重装getshell.md",
+            "signature": "10054677673268489800",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:36Z",
+            "id": "11766",
+            "modified_time": "2024-05-06T01:11:36Z",
+            "name": "Zzcms 8.2 任意用户密码修改.md",
+            "signature": "6200478621471616584",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:37Z",
+            "id": "11780",
+            "modified_time": "2024-05-06T01:11:37Z",
+            "name": "（CVE-2018-13056）Zzcms 8.3 任意文件删除.md",
+            "signature": "14209521609696882249",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:37Z",
+            "id": "11795",
+            "modified_time": "2024-05-06T01:11:37Z",
+            "name": "（CVE-2018-14961）Zzcms 8.3 前台sql注入.md",
+            "signature": "17610821256393272905",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:37Z",
+            "id": "11806",
+            "modified_time": "2024-05-06T01:11:37Z",
+            "name": "（CVE-2018-14962）Zzcms 8.3 储存型xss.md",
+            "signature": "15588414464871378505",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:37Z",
+            "id": "11817",
+            "modified_time": "2024-05-06T01:11:37Z",
+            "name": "（CVE-2018-14963）Zzcms 8.3 csrf.md",
+            "signature": "1709222360742637129",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "Zzcms 2018 最新版重装getshell"
+        },
+        {
+            "name": "Zzcms 8.2 任意用户密码修改"
+        },
+        {
+            "name": "（CVE-2018-13056）Zzcms 8.3 任意文件删除"
+        },
+        {
+            "name": "（CVE-2018-14961）Zzcms 8.3 前台sql注入"
+        },
+        {
+            "name": "（CVE-2018-14962）Zzcms 8.3 储存型xss"
+        },
+        {
+            "name": "（CVE-2018-14963）Zzcms 8.3 csrf"
+        }
+    ],
+    "id": "11738",
+    "modified_time": "2024-05-06T01:11:36Z",
+    "signature": "11164850668298579528",
+    "version": 3
+}

@@ -1,0 +1,222 @@
+{
+    "created_time": "2024-05-06T01:10:43Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:43Z",
+            "id": "8373",
+            "modified_time": "2024-05-06T01:10:43Z",
+            "name": "致远 OA A8 htmlofficeservlet getshell 漏洞.md",
+            "signature": "3903180638671875603",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:43Z",
+            "id": "8377",
+            "modified_time": "2024-05-06T01:10:43Z",
+            "name": "致远OA A6 setextno.jsp sql注入漏洞.md",
+            "signature": "2699462156423278099",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:43Z",
+            "id": "8381",
+            "modified_time": "2024-05-06T01:10:43Z",
+            "name": "致远OA A6 test.jsp sql注入漏洞.md",
+            "signature": "17107009609613717011",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:43Z",
+            "id": "8385",
+            "modified_time": "2024-05-06T01:10:43Z",
+            "name": "致远OA A6 敏感信息泄露（一）.md",
+            "signature": "6322862572109835795",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:43Z",
+            "id": "8389",
+            "modified_time": "2024-05-06T01:10:43Z",
+            "name": "致远OA A6 敏感信息泄露（二）.md",
+            "signature": "12987936828001103379",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:43Z",
+            "id": "8393",
+            "modified_time": "2024-05-06T01:10:43Z",
+            "name": "致远OA A6 重置数据库账号密码漏洞.md",
+            "signature": "5370567515409231379",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:43Z",
+            "id": "8397",
+            "modified_time": "2024-05-06T01:10:43Z",
+            "name": "致远OA A8 任意用户密码修改漏洞.md",
+            "signature": "10491842444205239827",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:43Z",
+            "id": "8401",
+            "modified_time": "2024-05-06T01:10:43Z",
+            "name": "致远OA A8 未授权访问.md",
+            "signature": "15404273643340443155",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:43Z",
+            "id": "8405",
+            "modified_time": "2024-05-06T01:10:43Z",
+            "name": "致远OA A8 系统远程命令执行漏洞.md",
+            "signature": "611384967053192723",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:43Z",
+            "id": "8409",
+            "modified_time": "2024-05-06T01:10:43Z",
+            "name": "致远OA A8-m 后台万能密码.md",
+            "signature": "10855016001057598995",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:44Z",
+            "id": "8413",
+            "modified_time": "2024-05-06T01:10:44Z",
+            "name": "致远OA A8-m 存在sql语句页面回显功能.md",
+            "signature": "15594091367959637524",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:44Z",
+            "id": "8417",
+            "modified_time": "2024-05-06T01:10:44Z",
+            "name": "致远OA A8-v5 任意用户密码修改.md",
+            "signature": "8697198240836627988",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:44Z",
+            "id": "8421",
+            "modified_time": "2024-05-06T01:10:44Z",
+            "name": "致远OA A8-v5 无视验证码撞库.md",
+            "signature": "15291914876515528212",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:44Z",
+            "id": "8425",
+            "modified_time": "2024-05-06T01:10:44Z",
+            "name": "致远OA Session泄漏漏洞.md",
+            "signature": "3486511159613861396",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:44Z",
+            "id": "8429",
+            "modified_time": "2024-05-06T01:10:44Z",
+            "name": "致远OA Session泄露 任意文件上传漏洞.md",
+            "signature": "3699702229401873940",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:44Z",
+            "id": "8433",
+            "modified_time": "2024-05-06T01:10:44Z",
+            "name": "致远OA 帆软报表组件 前台XXE漏洞.md",
+            "signature": "17547456976810159636",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "resource"
+        },
+        {
+            "name": "致远 OA A8 htmlofficeservlet getshell 漏洞"
+        },
+        {
+            "name": "致远OA A6 setextno.jsp sql注入漏洞"
+        },
+        {
+            "name": "致远OA A6 test.jsp sql注入漏洞"
+        },
+        {
+            "name": "致远OA A6 敏感信息泄露（一）"
+        },
+        {
+            "name": "致远OA A6 敏感信息泄露（二）"
+        },
+        {
+            "name": "致远OA A6 重置数据库账号密码漏洞"
+        },
+        {
+            "name": "致远OA A8 任意用户密码修改漏洞"
+        },
+        {
+            "name": "致远OA A8 未授权访问"
+        },
+        {
+            "name": "致远OA A8 系统远程命令执行漏洞"
+        },
+        {
+            "name": "致远OA A8-m 后台万能密码"
+        },
+        {
+            "name": "致远OA A8-m 存在sql语句页面回显功能"
+        },
+        {
+            "name": "致远OA A8-v5 任意用户密码修改"
+        },
+        {
+            "name": "致远OA A8-v5 无视验证码撞库"
+        },
+        {
+            "name": "致远OA Session泄漏漏洞"
+        },
+        {
+            "name": "致远OA Session泄露 任意文件上传漏洞"
+        },
+        {
+            "name": "致远OA 帆软报表组件 前台XXE漏洞"
+        }
+    ],
+    "id": "8432",
+    "modified_time": "2024-05-06T01:10:43Z",
+    "signature": "10240286450196688403",
+    "version": 3
+}

@@ -1,0 +1,27 @@
+{
+    "created_time": "2024-05-06T01:10:23Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:23Z",
+            "id": "7033",
+            "modified_time": "2024-05-06T01:10:23Z",
+            "name": "（CVE-2020-12078）Open-AudIT v3.3.1 远程命令执行漏洞.md",
+            "signature": "14406367773418073599",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "CVE-2020-12078 Open-AudIT v3.3.1 RCE"
+        },
+        {
+            "name": "（CVE-2020-12078）Open-AudIT v3.3.1 远程命令执行漏洞"
+        }
+    ],
+    "id": "7020",
+    "modified_time": "2024-05-06T01:10:23Z",
+    "signature": "6494026025401855487",
+    "version": 3
+}

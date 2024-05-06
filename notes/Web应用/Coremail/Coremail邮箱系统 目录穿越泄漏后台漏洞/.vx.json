@@ -1,0 +1,24 @@
+{
+    "created_time": "2024-05-06T01:09:23Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:09:23Z",
+            "id": "3206",
+            "modified_time": "2024-05-06T01:09:23Z",
+            "name": "Coremail邮箱系统 目录穿越泄漏后台漏洞.md",
+            "signature": "8547173706042453443",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "resource"
+        }
+    ],
+    "id": "3205",
+    "modified_time": "2024-05-06T01:09:23Z",
+    "signature": "2704693130237062595",
+    "version": 3
+}

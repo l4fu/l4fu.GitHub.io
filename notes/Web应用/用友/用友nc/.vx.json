@@ -1,0 +1,69 @@
+{
+    "created_time": "2024-05-06T01:11:55Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:55Z",
+            "id": "12988",
+            "modified_time": "2024-05-06T01:11:55Z",
+            "name": "用友 NC XbrlPersistenceServlet反序列化.md",
+            "signature": "13648238013392105051",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:55Z",
+            "id": "13000",
+            "modified_time": "2024-05-06T01:11:55Z",
+            "name": "用友 NC 反序列化RCE漏洞.md",
+            "signature": "2536017094369619547",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:55Z",
+            "id": "13010",
+            "modified_time": "2024-05-06T01:11:55Z",
+            "name": "用友ERP-NC 目录遍历漏洞.md",
+            "signature": "3355256666990325339",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:55Z",
+            "id": "13021",
+            "modified_time": "2024-05-06T01:11:55Z",
+            "name": "用友nc 6.5 反序列化漏洞.md",
+            "signature": "1197687641210367579",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "resource"
+        },
+        {
+            "name": "用友 NC bsh.servlet.BshServlet 远程命令执行漏洞"
+        },
+        {
+            "name": "用友 NC XbrlPersistenceServlet反序列化"
+        },
+        {
+            "name": "用友 NC 反序列化RCE漏洞"
+        },
+        {
+            "name": "用友ERP-NC 目录遍历漏洞"
+        },
+        {
+            "name": "用友nc 6.5 反序列化漏洞"
+        }
+    ],
+    "id": "13020",
+    "modified_time": "2024-05-06T01:11:55Z",
+    "signature": "15609811313335217755",
+    "version": 3
+}

@@ -1,0 +1,14 @@
+{
+    "created_time": "2024-05-06T01:09:24Z",
+    "files": [
+    ],
+    "folders": [
+        {
+            "name": "Coremail配置文件信息泄漏"
+        }
+    ],
+    "id": "3218",
+    "modified_time": "2024-05-06T01:09:24Z",
+    "signature": "13145820843709312452",
+    "version": 3
+}

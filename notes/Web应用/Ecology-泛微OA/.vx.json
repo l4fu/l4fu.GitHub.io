@@ -1,0 +1,23 @@
+{
+    "created_time": "2024-05-06T01:09:33Z",
+    "files": [
+    ],
+    "folders": [
+        {
+            "name": "Bsh远程代码执行（CNVD-2019-32204）"
+        },
+        {
+            "name": "V9 任意文件上传"
+        },
+        {
+            "name": "weaver.common.Ctrl-任意文件上传"
+        },
+        {
+            "name": "反序列化"
+        }
+    ],
+    "id": "3779",
+    "modified_time": "2024-05-06T01:09:33Z",
+    "signature": "6894986451121352141",
+    "version": 3
+}

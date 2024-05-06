@@ -1,0 +1,17 @@
+{
+    "created_time": "2024-05-06T01:10:40Z",
+    "files": [
+    ],
+    "folders": [
+        {
+            "name": "SaltStack 未授权访问命令执行漏洞 CVE-2020-16846 25592"
+        },
+        {
+            "name": "Saltstack 远程命令执行 CVE-2020-11651 11652"
+        }
+    ],
+    "id": "8163",
+    "modified_time": "2024-05-06T01:10:40Z",
+    "signature": "2722331495769845264",
+    "version": 3
+}

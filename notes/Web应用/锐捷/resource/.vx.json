@@ -1,0 +1,17 @@
+{
+    "created_time": "2024-05-06T01:12:01Z",
+    "files": [
+    ],
+    "folders": [
+        {
+            "name": "锐捷Smartweb管理系统-密码信息泄露漏洞"
+        },
+        {
+            "name": "锐捷Smartweb管理系统-默认开启Guest账户漏洞"
+        }
+    ],
+    "id": "13392",
+    "modified_time": "2024-05-06T01:12:01Z",
+    "signature": "710959896865549921",
+    "version": 3
+}

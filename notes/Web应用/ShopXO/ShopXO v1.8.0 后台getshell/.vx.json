@@ -1,0 +1,24 @@
+{
+    "created_time": "2024-05-06T01:10:45Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:45Z",
+            "id": "8501",
+            "modified_time": "2024-05-06T01:10:45Z",
+            "name": "ShopXO v1.8.0 后台getshell.md",
+            "signature": "5491636158082854421",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "resource"
+        }
+    ],
+    "id": "8500",
+    "modified_time": "2024-05-06T01:10:45Z",
+    "signature": "12928693148631707157",
+    "version": 3
+}

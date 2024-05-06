@@ -1,0 +1,17 @@
+{
+    "created_time": "2024-05-06T01:10:47Z",
+    "files": [
+    ],
+    "folders": [
+        {
+            "name": "(CVE-2020-5405)SpringCloudConfigServer目录穿越漏洞"
+        },
+        {
+            "name": "(CVE-2020-5410)SpringCloudConfig目录穿越漏洞"
+        }
+    ],
+    "id": "8670",
+    "modified_time": "2024-05-06T01:10:47Z",
+    "signature": "8091394095873273367",
+    "version": 3
+}

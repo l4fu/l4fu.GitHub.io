@@ -1,0 +1,24 @@
+{
+    "created_time": "2024-05-06T01:10:39Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:39Z",
+            "id": "8109",
+            "modified_time": "2024-05-06T01:10:39Z",
+            "name": "RuoYi CMS 任意文件读取.md",
+            "signature": "9084766700829158927",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "resource"
+        }
+    ],
+    "id": "8103",
+    "modified_time": "2024-05-06T01:10:39Z",
+    "signature": "6144132013507489295",
+    "version": 3
+}

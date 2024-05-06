@@ -1,0 +1,24 @@
+{
+    "created_time": "2024-05-06T01:10:09Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:09Z",
+            "id": "5989",
+            "modified_time": "2024-05-06T01:10:09Z",
+            "name": "LFCMS 后台getshell.md",
+            "signature": "1841886148100107761",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "resource"
+        }
+    ],
+    "id": "5992",
+    "modified_time": "2024-05-06T01:10:09Z",
+    "signature": "12832556211290779121",
+    "version": 3
+}

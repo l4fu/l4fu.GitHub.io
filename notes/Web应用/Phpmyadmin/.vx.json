@@ -1,0 +1,137 @@
+{
+    "created_time": "2024-05-06T01:10:31Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:31Z",
+            "id": "7559",
+            "modified_time": "2024-05-06T01:10:31Z",
+            "name": "Phpmyadmin  4.8.3 XSS.md",
+            "signature": "12292194607570628103",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:31Z",
+            "id": "7560",
+            "modified_time": "2024-05-06T01:10:31Z",
+            "name": "Phpmyadmin setup页面配置不当的利用姿势整合.md",
+            "signature": "17986771112590585351",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:31Z",
+            "id": "7561",
+            "modified_time": "2024-05-06T01:10:31Z",
+            "name": "Phpmyadmin 爆路径.md",
+            "signature": "8163025702169882119",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:31Z",
+            "id": "7562",
+            "modified_time": "2024-05-06T01:10:31Z",
+            "name": "README.md",
+            "signature": "8736201255463431687",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:31Z",
+            "id": "7581",
+            "modified_time": "2024-05-06T01:10:31Z",
+            "name": "（CVE-2014 -8959）Phpmyadmin 本地文件包含漏洞.md",
+            "signature": "7487854987812810247",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:31Z",
+            "id": "7582",
+            "modified_time": "2024-05-06T01:10:31Z",
+            "name": "（CVE-2016-5734）Phpmyadmin 后台远程命令执行漏洞.md",
+            "signature": "14803230624243527175",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:31Z",
+            "id": "7583",
+            "modified_time": "2024-05-06T01:10:31Z",
+            "name": "（CVE-2018-12613）Phpmyadmin 远程文件包含漏洞.md",
+            "signature": "127187460956892679",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:31Z",
+            "id": "7584",
+            "modified_time": "2024-05-06T01:10:31Z",
+            "name": "（CVE-2018-19968）Phpmyadmin 文件包含漏洞.md",
+            "signature": "3612544737237020167",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:31Z",
+            "id": "7585",
+            "modified_time": "2024-05-06T01:10:31Z",
+            "name": "（CVE-2019-12616）Phpmyadmin CSRF.md",
+            "signature": "17114835795941273095",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:31Z",
+            "id": "7586",
+            "modified_time": "2024-05-06T01:10:31Z",
+            "name": "（CVE-2019-18622）Phpmyadmin xss.md",
+            "signature": "4383493209409990151",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:31Z",
+            "id": "7587",
+            "modified_time": "2024-05-06T01:10:31Z",
+            "name": "（CVE-2020-5504）Phpmyadmin 后台sql注入漏洞.md",
+            "signature": "5293036814481239559",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:31Z",
+            "id": "7588",
+            "modified_time": "2024-05-06T01:10:31Z",
+            "name": "（WooYun-2016-1994）Phpmyadmin 任意文件读取漏洞.md",
+            "signature": "6240009865536220679",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "CVE-2020-0554"
+        },
+        {
+            "name": "resource"
+        }
+    ],
+    "id": "7555",
+    "modified_time": "2024-05-06T01:10:31Z",
+    "signature": "1157593606106131975",
+    "version": 3
+}

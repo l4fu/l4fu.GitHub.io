@@ -1,0 +1,76 @@
+{
+    "created_time": "2024-05-06T01:11:28Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:29Z",
+            "id": "11325",
+            "modified_time": "2024-05-06T01:11:29Z",
+            "name": "YCCMS 3.4 任意文件上传漏洞（一）.md",
+            "signature": "11982895101844663873",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:29Z",
+            "id": "11343",
+            "modified_time": "2024-05-06T01:11:29Z",
+            "name": "YCCMS 3.4 任意文件上传漏洞（二）.md",
+            "signature": "7105681238672289345",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:29Z",
+            "id": "11353",
+            "modified_time": "2024-05-06T01:11:29Z",
+            "name": "YCCMS 3.4 任意文件删除.md",
+            "signature": "6699172282142043713",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:29Z",
+            "id": "11360",
+            "modified_time": "2024-05-06T01:11:29Z",
+            "name": "YCCMS 3.4 反射型xss.md",
+            "signature": "2153761216864464450",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:30Z",
+            "id": "11371",
+            "modified_time": "2024-05-06T01:11:30Z",
+            "name": "YCCMS 3.4 未授权更改管理员账号密码.md",
+            "signature": "16003755381695721026",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "YCCMS 3.4 任意文件上传漏洞（一）"
+        },
+        {
+            "name": "YCCMS 3.4 任意文件上传漏洞（二）"
+        },
+        {
+            "name": "YCCMS 3.4 任意文件删除"
+        },
+        {
+            "name": "YCCMS 3.4 反射型xss"
+        },
+        {
+            "name": "YCCMS 3.4 未授权更改管理员账号密码"
+        }
+    ],
+    "id": "11307",
+    "modified_time": "2024-05-06T01:11:28Z",
+    "signature": "15310694483578334784",
+    "version": 3
+}

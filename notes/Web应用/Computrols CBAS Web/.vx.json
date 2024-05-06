@@ -1,0 +1,20 @@
+{
+    "created_time": "2024-05-06T01:09:23Z",
+    "files": [
+    ],
+    "folders": [
+        {
+            "name": "（CVE-2019-10846）Computrols CBAS Web反射型xss"
+        },
+        {
+            "name": "（CVE-2019-10848）Computrols CBAS Web 用户名枚举"
+        },
+        {
+            "name": "（CVE-2019-10852）Computrols CBAS Web SQL注入"
+        }
+    ],
+    "id": "3157",
+    "modified_time": "2024-05-06T01:09:23Z",
+    "signature": "17290273072405294531",
+    "version": 3
+}

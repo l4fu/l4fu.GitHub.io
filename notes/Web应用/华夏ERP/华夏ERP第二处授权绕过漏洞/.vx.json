@@ -1,0 +1,24 @@
+{
+    "created_time": "2024-05-06T01:11:40Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:40Z",
+            "id": "12045",
+            "modified_time": "2024-05-06T01:11:40Z",
+            "name": "华夏ERP第二处授权绕过漏洞.md",
+            "signature": "3885069599103266380",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "resource"
+        }
+    ],
+    "id": "12038",
+    "modified_time": "2024-05-06T01:11:40Z",
+    "signature": "13445879297801203276",
+    "version": 3
+}

@@ -1,0 +1,60 @@
+{
+    "created_time": "2024-05-06T01:10:12Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:12Z",
+            "id": "6189",
+            "modified_time": "2024-05-06T01:10:12Z",
+            "name": "Microsoft Exchange SSRF漏洞 CVE-2021-26885.md",
+            "signature": "1876248622362275316",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:12Z",
+            "id": "6192",
+            "modified_time": "2024-05-06T01:10:12Z",
+            "name": "Microsoft Exchange 远程命令执行 CVE-2021-27065 26857 26858 27065.md",
+            "signature": "2645564611825774068",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:12Z",
+            "id": "6211",
+            "modified_time": "2024-05-06T01:10:12Z",
+            "name": "（CVE-2020-0688）Microsoft Exchange 远程命令执行漏洞.md",
+            "signature": "7104637196547141108",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:12Z",
+            "id": "6222",
+            "modified_time": "2024-05-06T01:10:12Z",
+            "name": "（CVE-2020-16875）Microsoft Exchange 远程命令执行漏洞.md",
+            "signature": "1655741672785980916",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "POC"
+        },
+        {
+            "name": "（CVE-2020-0688）Microsoft Exchange 远程命令执行漏洞"
+        },
+        {
+            "name": "（CVE-2020-16875）Microsoft Exchange 远程命令执行漏洞"
+        }
+    ],
+    "id": "6186",
+    "modified_time": "2024-05-06T01:10:12Z",
+    "signature": "10385140376942423540",
+    "version": 3
+}

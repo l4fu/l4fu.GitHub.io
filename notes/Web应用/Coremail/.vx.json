@@ -1,0 +1,30 @@
+{
+    "created_time": "2024-05-06T01:09:23Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:09:24Z",
+            "id": "3220",
+            "modified_time": "2024-05-06T01:09:24Z",
+            "name": "Coremail配置文件信息泄漏.md",
+            "signature": "15967395782000651716",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "Coremail邮箱系统 目录穿越泄漏后台漏洞"
+        },
+        {
+            "name": "Coremail配置文件信息泄漏"
+        },
+        {
+            "name": "resource"
+        }
+    ],
+    "id": "3204",
+    "modified_time": "2024-05-06T01:09:23Z",
+    "signature": "1847816956770004419",
+    "version": 3
+}

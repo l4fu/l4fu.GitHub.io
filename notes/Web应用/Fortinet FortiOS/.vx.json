@@ -1,0 +1,26 @@
+{
+    "created_time": "2024-05-06T01:09:43Z",
+    "files": [
+    ],
+    "folders": [
+        {
+            "name": "（CVE-2018-13379）Fortinet FortiOS 路径遍历漏洞"
+        },
+        {
+            "name": "（CVE-2018-13380）Fortinet FortiOS xss漏洞"
+        },
+        {
+            "name": "（CVE-2018-13381）Fortinet FortiOS 缓冲区错误漏洞"
+        },
+        {
+            "name": "（CVE-2018-13382）Fortinet FortiOS magic后门"
+        },
+        {
+            "name": "（CVE-2018-13383）Fortinet FortiOS 缓冲区错误漏洞"
+        }
+    ],
+    "id": "4475",
+    "modified_time": "2024-05-06T01:09:43Z",
+    "signature": "1045950144609529303",
+    "version": 3
+}

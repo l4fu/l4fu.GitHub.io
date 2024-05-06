@@ -1,0 +1,24 @@
+{
+    "created_time": "2024-05-06T01:10:30Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:30Z",
+            "id": "7489",
+            "modified_time": "2024-05-06T01:10:30Z",
+            "name": "Phpcms V9.6.3 储存型xss.md",
+            "signature": "9099130686374686214",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "resource"
+        }
+    ],
+    "id": "7488",
+    "modified_time": "2024-05-06T01:10:30Z",
+    "signature": "1917240490314968582",
+    "version": 3
+}

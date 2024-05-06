@@ -1,0 +1,91 @@
+{
+    "created_time": "2024-05-06T01:10:36Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:38Z",
+            "id": "8008",
+            "modified_time": "2024-05-06T01:10:38Z",
+            "name": "rConfig v3.9.6 远程命令执行.md",
+            "signature": "12947485215394639374",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:38Z",
+            "id": "8023",
+            "modified_time": "2024-05-06T01:10:38Z",
+            "name": "（CVE-2019-16662）（CVE-2019-16663）rConfig v3.9.2 远程命令执行.md",
+            "signature": "6863915944737517070",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:38Z",
+            "id": "8030",
+            "modified_time": "2024-05-06T01:10:38Z",
+            "name": "（CVE-2019-19509）rConfig v3.9.3 后台远程命令执行漏洞.md",
+            "signature": "713906987459948046",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:38Z",
+            "id": "8037",
+            "modified_time": "2024-05-06T01:10:38Z",
+            "name": "（CVE-2019-19585）rConfig v3.9.3 本地权限提升漏洞.md",
+            "signature": "3857973367692340750",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:38Z",
+            "id": "8046",
+            "modified_time": "2024-05-06T01:10:38Z",
+            "name": "（CVE-2020-10220）rConfig v3.9.4 sql注入漏洞.md",
+            "signature": "12888821446804516366",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "rConfig ajaxArchiveFiles.php 后台远程命令执行漏洞"
+        },
+        {
+            "name": "rConfig ajaxEditTemplate.php 后台远程命令执行漏洞"
+        },
+        {
+            "name": "rConfig useradmin.inc.php 信息泄露漏洞"
+        },
+        {
+            "name": "rConfig userprocess.php 任意用户创建漏洞"
+        },
+        {
+            "name": "rConfig v3.9.6 远程命令执行"
+        },
+        {
+            "name": "rConfig 任意文件上传"
+        },
+        {
+            "name": "（CVE-2019-16662）（CVE-2019-16663）rConfig v3.9.2 远程命令执行"
+        },
+        {
+            "name": "（CVE-2019-19509）rConfig v3.9.3 后台远程命令执行漏洞"
+        },
+        {
+            "name": "（CVE-2019-19585）rConfig v3.9.3 本地权限提升漏洞"
+        },
+        {
+            "name": "（CVE-2020-10220）rConfig v3.9.4 sql注入漏洞"
+        }
+    ],
+    "id": "7946",
+    "modified_time": "2024-05-06T01:10:36Z",
+    "signature": "17663059401721261580",
+    "version": 3
+}

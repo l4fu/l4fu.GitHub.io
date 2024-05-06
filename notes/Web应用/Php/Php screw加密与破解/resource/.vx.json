@@ -1,0 +1,20 @@
+{
+    "created_time": "2024-05-06T01:10:26Z",
+    "files": [
+    ],
+    "folders": [
+        {
+            "name": "(一)Phpscrew加密与破解工具(php-screw-brute)"
+        },
+        {
+            "name": "(三)通过IDA获取加密的key"
+        },
+        {
+            "name": "(四)php-screw加密文件"
+        }
+    ],
+    "id": "7252",
+    "modified_time": "2024-05-06T01:10:26Z",
+    "signature": "17485596210658553346",
+    "version": 3
+}

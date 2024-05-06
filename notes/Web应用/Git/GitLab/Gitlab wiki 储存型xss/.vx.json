@@ -1,0 +1,24 @@
+{
+    "created_time": "2024-05-06T01:09:47Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:09:47Z",
+            "id": "4677",
+            "modified_time": "2024-05-06T01:09:47Z",
+            "name": "Gitlab wiki 储存型xss.md",
+            "signature": "4182721497119862235",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "resource"
+        }
+    ],
+    "id": "4674",
+    "modified_time": "2024-05-06T01:09:47Z",
+    "signature": "17522179359106411995",
+    "version": 3
+}

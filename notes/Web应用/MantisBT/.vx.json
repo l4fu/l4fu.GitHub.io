@@ -1,0 +1,37 @@
+{
+    "created_time": "2024-05-06T01:10:10Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:10Z",
+            "id": "6086",
+            "modified_time": "2024-05-06T01:10:10Z",
+            "name": "（CVE-2017-7615）MantisBT 任意密码重置漏洞.md",
+            "signature": "11793701796750831090",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:10:10Z",
+            "id": "6089",
+            "modified_time": "2024-05-06T01:10:10Z",
+            "name": "（CVE-2019-15715）MantisBT 远程命令执行漏洞.md",
+            "signature": "11151955510028676594",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "（CVE-2017-7615）MantisBT 任意密码重置漏洞"
+        },
+        {
+            "name": "（CVE-2019-15715）MantisBT 远程命令执行漏洞"
+        }
+    ],
+    "id": "6083",
+    "modified_time": "2024-05-06T01:10:10Z",
+    "signature": "3540166429401165298",
+    "version": 3
+}

@@ -1,0 +1,14 @@
+{
+    "created_time": "2024-05-06T01:09:49Z",
+    "files": [
+    ],
+    "folders": [
+        {
+            "name": "GlassFish任意文件读取漏洞"
+        }
+    ],
+    "id": "4786",
+    "modified_time": "2024-05-06T01:09:49Z",
+    "signature": "6932176663131729373",
+    "version": 3
+}

@@ -1,0 +1,31 @@
+{
+    "created_time": "2024-05-06T01:11:07Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:07Z",
+            "id": "9960",
+            "modified_time": "2024-05-06T01:11:07Z",
+            "name": "README.md",
+            "signature": "13857525185541320235",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-06T01:11:07Z",
+            "id": "9963",
+            "modified_time": "2024-05-06T01:11:07Z",
+            "name": "通达OA任意文件上传配合文件包含导致的RCE.py",
+            "signature": "4563846428131601963",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+    ],
+    "id": "9957",
+    "modified_time": "2024-05-06T01:11:07Z",
+    "signature": "12539762200458833451",
+    "version": 3
+}

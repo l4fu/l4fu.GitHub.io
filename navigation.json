@@ -3,12 +3,89 @@
     [
         {
             "text": "Home",
-            "target": "index.md",
+            "target": "list-web-harware.md",
             "toc": false
         },
         {
-            "text": "Notebook",
-            "target": "abc/vx.json",
+            "text": "Awesome-POC漏洞库",
+            "target": "notes/vx.json",
+            "navi": true,
+            "navi_expand_level": 1
+        },{
+            "text": "操作系统漏洞",
+            "target": "notes/操作系统漏洞/vx.json",
+            "navi": true,
+            "navi_expand_level": 1
+        },
+        {
+            "text": "开发框架漏洞",
+            "target": "notes/开发框架漏洞/vx.json",
+            "navi": true,
+            "navi_expand_level": 1
+        },
+        {
+            "text": "开发语言漏洞",
+            "target": "notes/开发框架漏洞/vx.json",
+            "navi": true,
+            "navi_expand_level": 1
+        },
+        {
+            "text": "其他漏洞",
+            "target": "notes/其他漏洞/vx.json",
+            "navi": true,
+            "navi_expand_level": 1
+        },
+        {
+            "text": "网络和设备漏洞",
+            "target": "notes/网络和设备漏洞/vx.json",
+            "navi": true,
+            "navi_expand_level": 1
+        },
+        {
+            "text": "应用服务器漏洞",
+            "target": "notes/应用服务器漏洞/vx.json",
+            "navi": true,
+            "navi_expand_level": 1
+        },
+        {
+            "text": "云安全漏洞",
+            "target": "notes/云安全漏洞/vx.json",
+            "navi": true,
+            "navi_expand_level": 1
+        },
+        {
+            "text": "CMS漏洞",
+            "target": "notes/CMS漏洞/vx.json",
+            "navi": true,
+            "navi_expand_level": 1
+        },
+        {
+            "text": "OA产品漏洞",
+            "target": "notes/OA产品漏洞/vx.json",
+            "navi": true,
+            "navi_expand_level": 1
+        },
+        {
+            "text": "vulhub",
+            "target": "notes/vulhub/vx.json",
+            "navi": true,
+            "navi_expand_level": 1
+        },
+        {
+            "text": "Web服务器漏洞",
+            "target": "notes/Web服务器漏洞/vx.json",
+            "navi": true,
+            "navi_expand_level": 1
+        },
+        {
+            "text": "Web应用",
+            "target": "notes/Web应用/vx.json",
+            "navi": true,
+            "navi_expand_level": 1
+        },
+        {
+            "text": "Web应用漏洞",
+            "target": "notes/Web应用漏洞/vx.json",
             "navi": true,
             "navi_expand_level": 1
         }
@@ -16,9 +93,9 @@
     "actions":
     [
         {
-            "text": "Viki",
+            "text": "l4fu.github.io",
             "icon": "css/viki_white.svg",
-            "target": "https://vnotex.github.io/viki/"
+            "target": "https://l4fu.github.io/"
         }
     ]
 }
